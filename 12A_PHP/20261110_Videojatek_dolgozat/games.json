@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Baldur's Gate 3",
+        "developer": "Larian Studios",
+        "year": 2023,
+        "genre": "Role-playing",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+        "description": "Gyűjts csapatot, és járd be a Forgotten Realms világát egy kalandban, ahol minden döntésnek következménye van.",
+        "platforms": ["PC", "PlayStation 5", "Xbox Series X|S"]
+    },
+    {
+        "title": "Elden Ring",
+        "developer": "FromSoftware",
+        "year": 2022,
+        "genre": "Role-playing",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+        "description": "Nyílt világú akció-szerepjáték egy hatalmas, veszélyekkel teli birodalomban, kemény főellenségekkel.",
+        "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X|S"]
+    },
+    {
+        "title": "Forza Horizon 5",
+        "developer": "Playground Games",
+        "year": 2021,
+        "genre": "Racing",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+        "description": "Nyílt világú autóverseny Mexikó változatos tájain, több száz autóval és folyamatosan változó időjárással.",
+        "platforms": ["PC", "Xbox One", "Xbox Series X|S", "PlayStation 5"]
+    },
+    {
+        "title": "Hades",
+        "developer": "Supergiant Games",
+        "year": 2020,
+        "genre": "Action",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+        "description": "Zagreus, az alvilág hercege újra és újra megpróbál megszökni apja birodalmából, minden futás más.",
+        "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X|S", "Nintendo Switch", "Mobile"]
+    },
+    {
+        "title": "Celeste",
+        "developer": "Maddy Makes Games",
+        "year": 2018,
+        "genre": "Platformer",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg",
+        "description": "Segíts Madeline-nek feljutni a Celeste-hegy csúcsára egy nehéz, de igazságos ügyességi játékban.",
+        "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"]
+    },
+    {
+        "title": "Hollow Knight",
+        "developer": "Team Cherry",
+        "year": 2017,
+        "genre": "Platformer",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+        "description": "Fedezd fel Hallownest elhagyatott, rovarok lakta föld alatti királyságát kézzel rajzolt 2D-s világban.",
+        "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"]
+    },
+    {
+        "title": "Stardew Valley",
+        "developer": "ConcernedApe",
+        "year": 2016,
+        "genre": "Simulation",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+        "description": "Örököld meg nagyapád farmját, termessz, állatokat nevelj, és ismerd meg a kisváros lakóit.",
+        "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Mobile"]
+    },
+    {
+        "title": "The Witcher 3: Wild Hunt",
+        "developer": "CD Projekt Red",
+        "year": 2015,
+        "genre": "Role-playing",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+        "description": "Ríviai Geralt, a hivatásos szörnyvadász a fogadott lánya nyomát keresi egy háború sújtotta világban.",
+        "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X|S", "Nintendo Switch"]
+    },
+    {
+        "title": "Rocket League",
+        "developer": "Psyonix",
+        "year": 2015,
+        "genre": "Sports",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/header.jpg",
+        "description": "Foci rakétahajtású autókkal: gyors, csapatalapú meccsek egyszerű szabályokkal.",
+        "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"]
+    },
+    {
+        "title": "Euro Truck Simulator 2",
+        "developer": "SCS Software",
+        "year": 2012,
+        "genre": "Simulation",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
+        "description": "Kamionsofőrként szállíts rakományt Európa városai között, és építsd fel a saját fuvarozó cégedet.",
+        "platforms": ["PC"]
+    },
+    {
+        "title": "Portal 2",
+        "developer": "Valve",
+        "year": 2011,
+        "genre": "Puzzle",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+        "description": "Oldj meg fizikai fejtörőket egy portálfegyverrel az Aperture Science elhagyatott laborjaiban.",
+        "platforms": ["PC", "PlayStation 3", "Xbox 360", "Nintendo Switch"]
+    },
+    {
+        "title": "Terraria",
+        "developer": "Re-Logic",
+        "year": 2011,
+        "genre": "Sandbox",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+        "description": "Áss, építs és harcolj egy véletlenszerűen generált 2D-s világban, tele kincsekkel és ellenfelekkel.",
+        "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Mobile"]
+    }
+]

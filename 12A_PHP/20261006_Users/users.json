@@ -1,0 +1,581 @@
+[
+  {
+    "id": 1,
+    "name": "Nagy Eszter",
+    "age": 31,
+    "city": "Szeged",
+    "interests": [
+      "reading",
+      "yoga",
+      "traveling"
+    ],
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Kovács Bence",
+    "age": 45,
+    "city": "Debrecen",
+    "interests": [
+      "fishing",
+      "cooking",
+      "movies"
+    ],
+    "active": false
+  },
+  {
+    "id": 3,
+    "name": "Tóth Zsófia",
+    "age": 28,
+    "city": "Pécs",
+    "interests": [
+      "painting",
+      "hiking",
+      "concerts"
+    ],
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Szabó Gergő",
+    "age": 52,
+    "city": "Győr",
+    "interests": [
+      "gardening",
+      "DIY"
+    ],
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Horváth Anna",
+    "age": 22,
+    "city": "Miskolc",
+    "interests": [
+      "video games",
+      "photography",
+      "listening to music"
+    ],
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Kiss Dániel",
+    "age": 38,
+    "city": "Székesfehérvár",
+    "interests": [
+      "running",
+      "programming"
+    ],
+    "active": false
+  },
+  {
+    "id": 7,
+    "name": "Varga Judit",
+    "age": 41,
+    "city": "Kecskemét",
+    "interests": [
+      "baking",
+      "animals",
+      "gardening"
+    ],
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Molnár Péter",
+    "age": 29,
+    "city": "Nyíregyháza",
+    "interests": [
+      "cars",
+      "sports",
+      "friends"
+    ],
+    "active": true
+  },
+  {
+    "id": 9,
+    "name": "Németh Katalin",
+    "age": 60,
+    "city": "Szombathely",
+    "interests": [
+      "crosswords",
+      "walking"
+    ],
+    "active": false
+  },
+  {
+    "id": 10,
+    "name": "Farkas Tamás",
+    "age": 35,
+    "city": "Veszprém",
+    "interests": [
+      "playing guitar",
+      "rock climbing",
+      "traveling"
+    ],
+    "active": true
+  },
+  {
+    "id": 11,
+    "name": "Balogh Mária",
+    "age": 48,
+    "city": "Eger",
+    "interests": [
+      "winemaking",
+      "history",
+      "reading"
+    ],
+    "active": true
+  },
+  {
+    "id": 12,
+    "name": "Papp László",
+    "age": 25,
+    "city": "Sopron",
+    "interests": [
+      "basketball",
+      "video games"
+    ],
+    "active": true
+  },
+  {
+    "id": 13,
+    "name": "Takács Ildikó",
+    "age": 33,
+    "city": "Zalaegerszeg",
+    "interests": [
+      "cycling",
+      "cooking"
+    ],
+    "active": false
+  },
+  {
+    "id": 14,
+    "name": "Juhász István",
+    "age": 42,
+    "city": "Békéscsaba",
+    "interests": [
+      "modeling",
+      "science"
+    ],
+    "active": true
+  },
+  {
+    "id": 15,
+    "name": "Mészáros Viktória",
+    "age": 27,
+    "city": "Kaposvár",
+    "interests": [
+      "fashion",
+      "blogging",
+      "photography"
+    ],
+    "active": true
+  },
+  {
+    "id": 16,
+    "name": "Simon Zoltán",
+    "age": 55,
+    "city": "Tatabánya",
+    "interests": [
+      "hiking",
+      "bird watching"
+    ],
+    "active": true
+  },
+  {
+    "id": 17,
+    "name": "Lakatos Éva",
+    "age": 39,
+    "city": "Salgótarján",
+    "interests": [
+      "family",
+      "baking",
+      "movies"
+    ],
+    "active": false
+  },
+  {
+    "id": 18,
+    "name": "Oláh Attila",
+    "age": 30,
+    "city": "Szolnok",
+    "interests": [
+      "workout",
+      "music",
+      "cars"
+    ],
+    "active": true
+  },
+  {
+    "id": 19,
+    "name": "Katona Tímea",
+    "age": 24,
+    "city": "Hódmezővásárhely",
+    "interests": [
+      "dancing",
+      "friends",
+      "traveling"
+    ],
+    "active": true
+  },
+  {
+    "id": 20,
+    "name": "Sándor Balázs",
+    "age": 47,
+    "city": "Dunaújváros",
+    "interests": [
+      "fishing",
+      "DIY"
+    ],
+    "active": true
+  },
+  {
+    "id": 21,
+    "name": "Fekete Noémi",
+    "age": 36,
+    "city": "Érd",
+    "interests": [
+      "yoga",
+      "meditation",
+      "reading"
+    ],
+    "active": false
+  },
+  {
+    "id": 22,
+    "name": "Balázs Ádám",
+    "age": 21,
+    "city": "Nagykanizsa",
+    "interests": [
+      "skateboarding",
+      "video games"
+    ],
+    "active": true
+  },
+  {
+    "id": 23,
+    "name": "Fehér Orsolya",
+    "age": 43,
+    "city": "Gödöllő",
+    "interests": [
+      "gardening",
+      "horse riding",
+      "nature"
+    ],
+    "active": true
+  },
+  {
+    "id": 24,
+    "name": "Kocsis Roland",
+    "age": 32,
+    "city": "Baja",
+    "interests": [
+      "swimming",
+      "cycling",
+      "cooking"
+    ],
+    "active": true
+  },
+  {
+    "id": 25,
+    "name": "Pintér Gabriella",
+    "age": 50,
+    "city": "Szekszárd",
+    "interests": [
+      "theater",
+      "culture",
+      "traveling"
+    ],
+    "active": false
+  },
+  {
+    "id": 26,
+    "name": "Kelemen András",
+    "age": 26,
+    "city": "Pápa",
+    "interests": [
+      "football",
+      "sports betting"
+    ],
+    "active": true
+  },
+  {
+    "id": 27,
+    "name": "Szalai Borbála",
+    "age": 65,
+    "city": "Gyöngyös",
+    "interests": [
+      "grandchildren",
+      "knitting",
+      "baking"
+    ],
+    "active": true
+  },
+  {
+    "id": 28,
+    "name": "Vörös Márton",
+    "age": 37,
+    "city": "Orosháza",
+    "interests": [
+      "programming",
+      "sci-fi",
+      "board games"
+    ],
+    "active": true
+  },
+  {
+    "id": 29,
+    "name": "Veres Anikó",
+    "age": 29,
+    "city": "Kazincbarcika",
+    "interests": [
+      "makeup",
+      "fashion",
+      "tv shows"
+    ],
+    "active": false
+  },
+  {
+    "id": 30,
+    "name": "Hegedűs Csaba",
+    "age": 44,
+    "city": "Kiskunfélegyháza",
+    "interests": [
+      "history",
+      "military science"
+    ],
+    "active": true
+  },
+  {
+    "id": 31,
+    "name": "Bognár Nikolett",
+    "age": 23,
+    "city": "Ajka",
+    "interests": [
+      "animal welfare",
+      "volunteering",
+      "hiking"
+    ],
+    "active": true
+  },
+  {
+    "id": 32,
+    "name": "Somogyi Krisztián",
+    "age": 34,
+    "city": "Mosonmagyaróvár",
+    "interests": [
+      "rowing",
+      "hiking"
+    ],
+    "active": true
+  },
+  {
+    "id": 33,
+    "name": "Lengyel Zsuzsanna",
+    "age": 58,
+    "city": "Esztergom",
+    "interests": [
+      "reading",
+      "garden",
+      "arts"
+    ],
+    "active": false
+  },
+  {
+    "id": 34,
+    "name": "Bodnár Dávid",
+    "age": 30,
+    "city": "Vác",
+    "interests": [
+      "street workout",
+      "songwriting"
+    ],
+    "active": true
+  },
+  {
+    "id": 35,
+    "name": "Fülöp Alexandra",
+    "age": 28,
+    "city": "Siófok",
+    "interests": [
+      "sailing",
+      "summer",
+      "festivals"
+    ],
+    "active": true
+  },
+  {
+    "id": 36,
+    "name": "Jakab Norbert",
+    "age": 49,
+    "city": "Gyula",
+    "interests": [
+      "barbecue",
+      "family"
+    ],
+    "active": true
+  },
+  {
+    "id": 37,
+    "name": "Sipos Réka",
+    "age": 40,
+    "city": "Hajdúböszörmény",
+    "interests": [
+      "handicrafts",
+      "decorating"
+    ],
+    "active": false
+  },
+  {
+    "id": 38,
+    "name": "Rácz Gábor",
+    "age": 22,
+    "city": "Cegléd",
+    "interests": [
+      "car mechanics",
+      "racing"
+    ],
+    "active": true
+  },
+  {
+    "id": 39,
+    "name": "Király Beatrix",
+    "age": 36,
+    "city": "Komló",
+    "interests": [
+      "psychology",
+      "self-improvement",
+      "yoga"
+    ],
+    "active": true
+  },
+  {
+    "id": 40,
+    "name": "László Levente",
+    "age": 53,
+    "city": "Oroszlány",
+    "interests": [
+      "chess",
+      "reading",
+      "history"
+    ],
+    "active": true
+  },
+  {
+    "id": 41,
+    "name": "Gál Kinga",
+    "age": 27,
+    "city": "Szentes",
+    "interests": [
+      "running",
+      "healthy lifestyle",
+      "cooking"
+    ],
+    "active": true
+  },
+  {
+    "id": 42,
+    "name": "Vincze Richárd",
+    "age": 46,
+    "city": "Makó",
+    "interests": [
+      "farming",
+      "animal husbandry"
+    ],
+    "active": false
+  },
+  {
+    "id": 43,
+    "name": "Fazekas Emese",
+    "age": 31,
+    "city": "Keszthely",
+    "interests": [
+      "Lake Balaton",
+      "swimming",
+      "sunbathing"
+    ],
+    "active": true
+  },
+  {
+    "id": 44,
+    "name": "Barta Arnold",
+    "age": 29,
+    "city": "Jászberény",
+    "interests": [
+      "powerlifting",
+      "movies"
+    ],
+    "active": true
+  },
+  {
+    "id": 45,
+    "name": "Antal Dóra",
+    "age": 38,
+    "city": "Komárom",
+    "interests": [
+      "cycling",
+      "hiking",
+      "family"
+    ],
+    "active": true
+  },
+  {
+    "id": 46,
+    "name": "Boros Marcell",
+    "age": 51,
+    "city": "Sátoraljaújhely",
+    "interests": [
+      "winemaking",
+      "hiking"
+    ],
+    "active": false
+  },
+  {
+    "id": 47,
+    "name": "Pap Dorina",
+    "age": 20,
+    "city": "Paks",
+    "interests": [
+      "studying",
+      "friends",
+      "tv shows"
+    ],
+    "active": true
+  },
+  {
+    "id": 48,
+    "name": "Bíró Kristóf",
+    "age": 41,
+    "city": "Hatvan",
+    "interests": [
+      "logistics",
+      "cars"
+    ],
+    "active": true
+  },
+  {
+    "id": 49,
+    "name": "Gáspár Evelin",
+    "age": 33,
+    "city": "Dunakeszi",
+    "interests": [
+      "parenting",
+      "playgrounds",
+      "baking"
+    ],
+    "active": true
+  },
+  {
+    "id": 50,
+    "name": "Magyar Zsolt",
+    "age": 56,
+    "city": "Tiszaújváros",
+    "interests": [
+      "fishing",
+      "gardening"
+    ],
+    "active": false
+  }
+]
